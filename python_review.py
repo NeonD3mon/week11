@@ -23,8 +23,8 @@ A variable name cannot be any of the python keywords.
 
 $$$Variabel = "bad"
 
-
-
 '''
 
-
+x = type(3)
+y = type("Hello")
+z = type(True)
